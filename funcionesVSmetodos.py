@@ -26,3 +26,4 @@ print(len(lista)) #Tanto print() como len() es una funcion
 #que posee el metodo. El metodo se comportará como una funcion pero ademas puede cambiar el estado
 #interno de los datos
 lista.append(5)
+
